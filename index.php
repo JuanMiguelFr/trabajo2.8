@@ -12,7 +12,7 @@ include 'cadenas.php';
     <h2>Funciones con cadenas de texto</h2>
 
     <form method="POST">
-        Escribe una palabra o frase: <br>
+        Escribe una palabra o frase : <br>
         <input type="text" name="texto" required>
         <input type="submit" value="Aceptar">
     </form>
